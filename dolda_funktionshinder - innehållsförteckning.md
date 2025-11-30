@@ -24,7 +24,7 @@
   - [4.5.1 Screening och tidig upptäckt](dolda_funktionshinder - kapitel4.md)
 - [4.6 Vägen framåt](dolda_funktionshinder - kapitel4.md)
 
-## Kapitel 5: Policy och framtid
-- [5.1 Lagstiftning och rättigheter](dolda_funktionshinder - kapitel5.md)
-- [5.2 Politiska initiativ](dolda_funktionshinder - kapitel5.md)
-- [5.3 Framtidsvisioner](dolda_funktionshinder - kapitel5.md)
+## Kapitel 5: Vård och rehabilitering
+- [5.1 Rehabiliteringens betydelse](dolda_funktionshinder - kapitel5.md)
+- [5.2 Koordinering av vård och stöd](dolda_funktionshinder - kapitel5.md)
+- [5.3 Patientorganisationers roll](dolda_funktionshinder - kapitel5.md)
