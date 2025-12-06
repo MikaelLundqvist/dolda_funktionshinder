@@ -100,3 +100,5 @@ Slutligen är det avgörande att stigma aktivt motverkas genom utbildning, infor
 37. Ellis K, Goggin G. Disability and the media. New York: Palgrave Macmillan; 2015.  
 38. Beresford P, et al. Developing inclusive social policy: participation, diversity and equality. Bristol: Policy Press; 2007.  
 39. Corrigan PW, et al. Challenging the public stigma of mental illness: a meta-analysis of outcome studies. Psychiatr Serv. 2012;63(10):963–73.
+
+\newpage

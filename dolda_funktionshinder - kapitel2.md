@@ -136,3 +136,4 @@ Sammanfattningsvis är dolda funktionshinder en komplex men viktig del av vår f
 16. Wade DT. Rehabilitation: a new approach. Clin Rehabil. 2015;29(12):1141–52.  
 17. Thomas C. Sociologies of disability and illness. London: Palgrave Macmillan; 2007.
 
+\newpage

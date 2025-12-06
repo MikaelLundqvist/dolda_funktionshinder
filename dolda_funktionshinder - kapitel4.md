@@ -1,36 +1,6 @@
 ## Kapitel 4: Arbetsliv och utbildning
 
 ### 4.1 Tillgång till arbetsmarknaden
-- Arbetslivets krav och hur dolda funktionshinder kan påverka möjligheten att få och behålla arbete.
-- Diskriminering och osynliga barriärer vid rekrytering och karriärutveckling.
-- Exempel på stödinsatser och anpassningar som kan underlätta.
-
-### 4.2 Arbetsmiljö och inkludering
-- Betydelsen av en inkluderande arbetsmiljö.
-- Praktiska anpassningar: flexibla arbetstider, tekniska hjälpmedel, tydlig kommunikation.
-- Arbetsgivarens ansvar enligt lagstiftning och policy.
-
-### 4.3 Utbildningens roll
-- Skolans och högre utbildningens betydelse för delaktighet och framtida arbetsmöjligheter.
-- Utmaningar för elever och studenter med dolda funktionshinder: koncentrationssvårigheter, sensoriska hinder, psykisk ohälsa.
-- Vikten av tidig upptäckt och stödinsatser.
-
-### 4.4 Pedagogiska anpassningar
-- Exempel på metoder: extra tid vid prov, alternativa examinationsformer, tillgång till digitala hjälpmedel.
-- Lärarens roll i att skapa en inkluderande lärmiljö.
-- Skillnader mellan formell lagstiftning och faktisk praktik.
-
-### 4.5 Samhällsekonomiska perspektiv
-- Kostnader för exkludering: arbetslöshet, sjukskrivningar, minskad produktivitet.
-- Vinster med inkludering: ökad delaktighet, bättre hälsa, starkare arbetskraft.
-- Utbildning och arbetsliv som investeringar i samhällsutveckling.
-
-### 4.6 Vägen framåt
-- Behovet av samverkan mellan skola, arbetsgivare och vård.
-- Att se anpassningar som en resurs snarare än en kostnad.
-- Framtidsvision: ett arbetsliv och utbildningssystem där variation är norm.
-
-### 4.1 Tillgång till arbetsmarknaden
 
 Arbetslivet utgör en central del av människors identitet och delaktighet i samhället. För personer med dolda funktionshinder kan vägen in på arbetsmarknaden dock vara betydligt mer komplicerad än för andra. Eftersom svårigheterna inte alltid är synliga riskerar de att förbises vid rekrytering, vilket kan leda till diskriminering eller uteblivna anpassningar [40]. Arbetsgivare kan ha svårt att förstå varför en individ behöver särskilt stöd när det inte finns några tydliga yttre tecken på funktionsnedsättning.
 
@@ -177,3 +147,5 @@ Slutligen krävs en kulturell förändring. Arbetsliv och utbildning måste prä
 68. Knapp M, McDaid D, Parsonage M. Mental health promotion and prevention: the economic case. London: Department of Health; 2011.  
 69. Simeonsson RJ, et al. Ethical considerations in disability screening and assessment. Disabil Rehabil. 2014;36(10):847–53.
 70. Leonardi M, Bickenbach J. The definition of disability: what is in a name? Lancet. 2006;368(9543):1219–21.
+
+\newpage

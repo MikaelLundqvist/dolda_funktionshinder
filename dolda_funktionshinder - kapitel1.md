@@ -15,7 +15,7 @@ Jag vill rikta ett varmt tack till alla som delat sina erfarenheter och insikter
 Bankeryd, november 2025  
 *Mikael Lundqvist*
 
-
+\newpage
 
 
 ## Inledning: Varför denna bok?
@@ -30,6 +30,8 @@ Boken är under ständig utveckling. Varje kapitel granskas noggrant, referenser
 
 Vi börjar med grunden: Vad är ett dolt funktionshinder, och varför är det så svårt att upptäcka?
 
+\newpage
+
 ## Arbete och samarbete via GitHub
 
 Denna bok är inte bara ett slutet manuskript, utan ett öppet projekt. Genom att använda GitHub som plattform kan innehållet utvecklas steg för steg, med full transparens och möjlighet till samarbete. Varje kapitel och avsnitt lagras som Markdown-filer, vilket gör det enkelt att följa ändringar, föreslå förbättringar och bidra med nya perspektiv.
@@ -41,3 +43,5 @@ GitHub fungerar här som ett nav för:
 - **Tillgänglighet:** Genom Creative Commons-licensen (CC BY) kan materialet återanvändas och spridas fritt, så länge källan anges.
 
 På detta sätt blir boken inte bara en text, utan en levande resurs som kan växa och förbättras över tid. Den öppna strukturen gör det möjligt att förena vetenskaplig kunskap, personliga berättelser och praktiska verktyg – och därigenom skapa en gemensam kunskapsbas för alla som berörs av dolda funktionshinder.
+
+\newpage

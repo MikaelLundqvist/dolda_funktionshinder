@@ -81,3 +81,5 @@ Sammanfattningsvis är hoppet om framtiden inte en abstrakt idé, utan grundat i
 93. Hennekam S, Shymko Y. Coping with invisible disabilities at work: disclosure, accommodation, and career outcomes. Hum Relat. 2020;73(4):606–30.  
 94. United Nations. Convention on the Rights of Persons with Disabilities. New York: UN; 2006.  
 95. World Health Organization. Global report on assistive technology. Geneva: WHO; 2022.
+
+\newpage

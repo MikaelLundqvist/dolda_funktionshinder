@@ -50,3 +50,5 @@ Sammanfattningsvis är patientorganisationer en nyckelresurs i rehabiliteringens
 75. Repper J, Carter T. A review of the literature on peer support in mental health services. J Ment Health. 2011;20(4):392–411.  
 76. Oliver M. The politics of disablement. London: Macmillan; 1990.  
 77. United Nations. Convention on the Rights of Persons with Disabilities. New York: UN; 2006.
+
+\newpage
