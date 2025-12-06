@@ -4,7 +4,7 @@ subtitle: "Om arbetsliv, utbildning och vård"
 author:
   - "Mikael Lundqvist"
   - "Redaktör och sammanställare"
-date: "December 2025, version 0.31"
+date: "December 2025, version 0.32"
 lang: "sv"
 keywords: ["dolda funktionshinder", "arbetsmiljö", "utbildning", "företagshälsovård", "allmän vård", "tillgänglighet"]
 ---
@@ -60,6 +60,7 @@ keywords: ["dolda funktionshinder", "arbetsmiljö", "utbildning", "företagshäl
 - [7.7 Politiker](dolda_funktionshinder - kapitel7.md)
 - [7.8 Försäkringskassan](dolda_funktionshinder - kapitel7.md)
 - [7.9 Arbetsförmedlingen](dolda_funktionshinder - kapitel7.md)
+- [7.10 Optiker](dolda_funktionshinder - kapitel7.md)
 
 ## Appendix A
 - [Patientföreningar för dolda funktionsnedsättningar](dolda_funktionshinder - appendixA.md)

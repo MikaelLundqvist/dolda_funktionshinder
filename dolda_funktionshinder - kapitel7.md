@@ -105,6 +105,16 @@ Arbetsförmedlingen har en viktig roll i att stödja personer med dolda funktion
 
 ---
 
+## 7.10 Optiker
+
+Optiker har en viktig roll i arbetsmiljön, särskilt kopplat till synrelaterade anpassningar och förebyggande insatser. Arbetsgivare bokar ofta tider hos optiker för att prova ut terminalglasögon, vilket är en rättighet för anställda som arbetar vid bildskärm minst en timme per dag. Detta ger en naturlig möjlighet att samtidigt screena för andra synproblem som kan påverka arbetsförmågan, såsom konvergensinsufficiens, ackommodationsstörningar, brytningsfel och digital ögontrötthet.
+
+Bildskärmsarbete är mycket utbrett i dagens arbetsliv och förekommer i nästan alla branscher, vilket innebär att en stor andel av arbetskraften kan nås via terminalglasögonrutinen. Det uppskattas att mellan 2–13 % av befolkningen kan ha konvergensinsufficiens, en binokulär funktionsstörning som kan förvärra symtom vid nära arbete och skärmanvändning. Andra vanliga synproblem som kan upptäckas eller förvärras av terminalarbete inkluderar ackommodationsinsufficiens, torra ögon och digital asthenopi, vilka alla kan påverka koncentration, arbetsförmåga och välmående.
+
+Optiker kan också ge råd om synergonomi, såsom skärmplacering, arbetsavstånd och belysning, för att minska visuell belastning och förebygga ögontrötthet och huvudvärk. Genom att integrera screening och rådgivning i terminalglasögonprocessen kan optiker bidra till tidig upptäckt och förebyggande av synrelaterade dolda funktionshinder. [114][115]
+
+---
+
 ## Referenser
 
 [96] Socialstyrelsen. Patientens rättigheter vid funktionsnedsättning. Stockholm: Socialstyrelsen; 2020.
@@ -142,5 +152,9 @@ Arbetsförmedlingen har en viktig roll i att stödja personer med dolda funktion
 [112] Arbetsförmedlingen. Stöd till personer med funktionsnedsättning. 2021.
 
 [113] Socialstyrelsen. Samverkan mellan vård och försäkringskassa. 2022.
+
+[114] Scheiman M, et al. Prevalence and management of convergence insufficiency in clinical practice. Optometry and Vision Science. 2011;88(3):257-262.
+
+[115] Rosenfield M. Computer vision syndrome: a review of ocular causes and potential treatments. Ophthalmic and Physiological Optics. 2011;31(5):502-515.
 
 \newpage
