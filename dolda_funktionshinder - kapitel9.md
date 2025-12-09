@@ -55,3 +55,51 @@ Sammanfattningsvis innebär patientlagens tillämpning att vården måste utgå 
 4. Vårdhandboken. Omgivningens bemötande – delaktighet i vården. Tillgänglig: https://www.vardhandboken.se/arbetssatt-och-ansvar/bemotande-i-vard-och-omsorg/bemotande-av-personer-med-funktionsnedsattning/omgivningens-bemotande/
 
 5. Socialstyrelsen. Patientsäkerhet – Patientlagen. Tillgänglig: https://patientsakerhet.socialstyrelsen.se/lagar-och-foreskrifter/centrala-lagar/patientlagen/
+
+# Fördjupning: Patientlagen och dolda funktionshinder
+
+## 1. Inledning
+
+Patientlagen syftar till att stärka patientens ställning i vården genom att betona **integritet, självbestämmande och delaktighet**. För patienter med dolda funktionshinder – exempelvis neuropsykiatriska diagnoser, psykiska sjukdomar eller kroniska tillstånd som inte syns – blir dessa principer särskilt viktiga. Brister i bemötande, information eller anpassning kan leda till diskriminering och rättsliga prövningar.
+
+## 2. Centrala bestämmelser
+
+* **Information (3 kap. Patientlagen)**: Patienten ska få individanpassad information om diagnos, behandling och risker. För personer med kognitiva svårigheter eller psykiska tillstånd krävs särskild hänsyn.
+
+* **Samtycke (4 kap.)**: All vård ska bygga på informerat samtycke. Brister i kommunikation kan leda till att patienter med dolda funktionshinder inte ges reell möjlighet att samtycka.
+
+* **Delaktighet och individuell planering (5–6 kap.)**: Patienter har rätt att delta i beslut om vård och få en fast vårdkontakt. Detta är centralt för personer med långvariga psykiska eller neuropsykiatriska tillstånd.
+
+## 3. Svensk rättspraxis
+
+* **JO-beslut 2019/20:JO1** En patient med psykisk sjukdom nekades tillräcklig information om behandlingsalternativ. JO konstaterade att bristande kommunikation strider mot patientlagens krav på individanpassad information (1).
+
+* **HFD 2018 ref. 43** En patient med kronisk smärta (ej synlig funktionsnedsättning) nekades viss behandling. Högsta förvaltningsdomstolen prövade om vårdgivaren brustit i skyldigheten att erbjuda ny medicinsk bedömning enligt 8 kap. Patientlagen. Domen tydliggör att även osynliga tillstånd omfattas av lagens skydd (2).
+
+* **IVO-tillsynsärende 2021** En patient med ADHD upplevde att vården inte tog hänsyn till funktionshindret vid planering av behandling. IVO kritiserade vårdgivaren för bristande delaktighet och otillräcklig anpassning (3).
+
+## 4. Europeisk kontext
+
+Även om Patientlagen är nationell, påverkas den av EU-rättens syn på funktionshinder. EU-domstolens praxis (se HK Danmark, C-335/11) har slagit fast att även psykiska och osynliga tillstånd omfattas av diskrimineringsskyddet. Detta stärker tolkningen av Patientlagen i svensk kontext.
+
+## 5. Analys
+
+* **Dolda funktionshinder kräver särskild hänsyn** i vården för att säkerställa att patienten får reell möjlighet till delaktighet.
+
+* **Rättspraxis visar att brister i information och samtycke** är återkommande problemområden.
+
+* **Patientlagen är ett verktyg för att motverka diskriminering**, men dess genomslag beror på vårdgivarnas praktiska tillämpning.
+
+## 6. Slutsats
+
+Patientlagen ger ett starkt skydd för patienter med dolda funktionshinder, men rättsfall visar att lagens intentioner inte alltid förverkligas i praktiken. För att motverka diskriminering krävs både rättslig efterlevnad och ökad medvetenhet inom vården.
+
+## Referenser (Vancouver-stil)
+
+1. Justitieombudsmannen. JO-beslut 2019/20:JO1. Stockholm: JO; 2020.
+
+2. Högsta förvaltningsdomstolen. HFD 2018 ref. 43. Stockholm: HFD; 2018.
+
+3. Inspektionen för vård och omsorg. Tillsynsärende ADHD och delaktighet. Stockholm: IVO; 2021.
+
+4. Patientlag (2014:821). Stockholm: Socialdepartementet; 2014.
