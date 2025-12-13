@@ -4,7 +4,7 @@ subtitle: "Om arbetsliv, utbildning och vård"
 author:
   - "Mikael Lundqvist"
   - "Redaktör och sammanställare"
-date: "December 2025, version 0.32"
+date: "December 2025, version 0.33"
 lang: "sv"
 keywords: ["dolda funktionshinder", "arbetsmiljö", "utbildning", "företagshälsovård", "allmän vård", "tillgänglighet"]
 ---
@@ -61,6 +61,19 @@ keywords: ["dolda funktionshinder", "arbetsmiljö", "utbildning", "företagshäl
 - [7.8 Försäkringskassan](dolda_funktionshinder - kapitel7.md)
 - [7.9 Arbetsförmedlingen](dolda_funktionshinder - kapitel7.md)
 - [7.10 Optiker](dolda_funktionshinder - kapitel7.md)
+
+# Kapitel 8: Diskrimineringslagen och dolda funktionshinder
+- [8.1 Inledning](dolda_funktionshinder - kapitel8)
+- [8.2 Centrala bestämmelser](dolda_funktionshinder - kapitel8)
+- [8.3 Tillämpning på dolda funktionshinder](dolda_funktionshinder - kapitel8)
+- [8.4 Exempel på diskriminering](dolda_funktionshinder - kapitel8)
+- [8.5 Rättsliga konsekvenser](dolda_funktionshinder - kapitel8)
+- [8.6 Diskriminering och dolda funktionshinder i rättspraxis](dolda_funktionshinder - kapitel8)
+# Kapitel 9: Patientlagen och dolda funktionshinder
+- [9.1 Inledning](dolda_funktionshinder - kapitel9.md)
+- [9.2 Centrala bestämmelser](dolda_funktionshinder - kapitel9.md)
+- [9.3 Tillämpning på dolda funktionshinder](dolda_funktionshinder - kapitel9.md)
+- [9.4 Patientlagen och dolda funktionshinder i rättspraxis](dolda_funktionshinder - kapitel9.md)
 
 ## Appendix A
 - [Patientföreningar för dolda funktionsnedsättningar](dolda_funktionshinder - appendixA.md)

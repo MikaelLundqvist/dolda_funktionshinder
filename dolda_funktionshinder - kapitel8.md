@@ -1,6 +1,6 @@
-# Diskrimineringslagen och dolda funktionshinder
+# Kapitel 8: Diskrimineringslagen och dolda funktionshinder
 
-## Inledning
+## 8.1 Inledning
 
 Diskrimineringslagen (SFS 2008:567) är en central del av det svenska rättssystemet och har som syfte att motverka diskriminering samt främja lika rättigheter och möjligheter för alla människor \[1]. Lagen omfattar sju diskrimineringsgrunder, där funktionsnedsättning är en av dem \[2]. Begreppet funktionsnedsättning är brett och inkluderar både synliga och dolda hinder. Det innebär att även personer med tillstånd som inte alltid märks utåt – till exempel hjärntrötthet, koncentrationssvårigheter, synstörningar eller andra kognitiva begränsningar – har samma rätt till skydd mot diskriminering som personer med mer uppenbara funktionsnedsättningar \[2,3].
 
@@ -10,7 +10,7 @@ Diskrimineringslagen är därför ett viktigt verktyg för att synliggöra och s
 
 ---
 
-## Centrala bestämmelser
+## 8.2 Centrala bestämmelser
 
 Diskrimineringslagen (2008:567) innehåller flera viktiga bestämmelser som direkt berör personer med funktionsnedsättning, inklusive dolda funktionshinder. Den grundläggande principen är att ingen ska missgynnas eller behandlas sämre på grund av sin funktionsnedsättning \[1]. Detta gäller i arbetslivet, utbildning, hälso- och sjukvård, socialtjänst, samt vid tillgång till varor, tjänster och bostäder \[2].
 
@@ -24,7 +24,7 @@ Sammanfattningsvis innebär de centrala bestämmelserna att personer med dolda f
 
 ---
 
-## Tillämpning på dolda funktionshinder
+## 8.3 Tillämpning på dolda funktionshinder
 
 Diskrimineringslagen omfattar alla typer av funktionsnedsättningar, även sådana som inte är synliga för omgivningen. Detta innebär att personer med tillstånd som hjärntrötthet, koncentrationssvårigheter, synstörningar, epilepsi eller psykiska funktionsnedsättningar har samma rätt till skydd mot diskriminering som personer med mer uppenbara funktionsnedsättningar \[2].
 
@@ -38,7 +38,7 @@ Sammanfattningsvis visar tillämpningen av diskrimineringslagen att skyddet för
 
 ---
 
-## Exempel på diskriminering
+## 8.4 Exempel på diskriminering
 
 Diskrimineringslagen gör det tydligt att personer med funktionsnedsättning, inklusive dolda funktionshinder, har rätt att delta på lika villkor i arbetsliv, utbildning och samhällsliv. Trots detta förekommer situationer där bristande tillgänglighet eller direkt missgynnande leder till diskriminering \[1].
 
@@ -52,7 +52,7 @@ Sammanfattningsvis visar dessa exempel att diskriminering kan ta sig många uttr
 
 ---
 
-## Rättsliga konsekvenser
+## 8.5 Rättsliga konsekvenser
 
 Diskrimineringslagen är inte bara en värdegrundslag, utan innehåller också tydliga rättsliga konsekvenser för den som bryter mot bestämmelserna. Tillsynen över lagen ligger hos **Diskrimineringsombudsmannen (DO)**, som har mandat att granska verksamheter, utreda anmälningar och i vissa fall driva ärenden vidare till domstol \[2].
 
@@ -76,42 +76,79 @@ Sammanfattningsvis innebär de rättsliga konsekvenserna att diskrimineringslage
 
 4. Synskadades Riksförbund. Diskrimineringslagen. Tillgänglig: https://www.srf.nu/rad-och-stod/juridisk-radgivning/lagar-och-rattigheter/diskrimineringslagen
 
+\newpage
 
-# Fördjupning: Diskriminering och dolda funktionshinder i rättspraxis
+## 8.6 Diskriminering och dolda funktionshinder i rättspraxis
 
-## 1. Inledning
+### 8.6.1. Inledning
 
 Diskriminering av personer med dolda funktionshinder – såsom neuropsykiatriska diagnoser, psykiska sjukdomar eller kroniska tillstånd som inte är synliga – har fått ökad uppmärksamhet i både svensk och europeisk rätt. Trots lagstiftning som syftar till att skydda mot diskriminering, visar rättspraxis att individer med osynliga funktionsnedsättningar ofta möter särskilda hinder i arbetslivet och utbildningssektorn.
 
-## 2. Svensk rättspraxis
+---
 
-* **AD 2017 nr 51 (Arbetsdomstolen)** En arbetstagare med bipolär sjukdom ansåg sig diskriminerad då arbetsgivaren inte vidtagit skäliga anpassningsåtgärder. Arbetsdomstolen konstaterade att psykiska sjukdomar omfattas av diskrimineringslagens skydd, men att arbetsgivaren inte alltid är skyldig att acceptera alla former av anpassning. Fallet tydliggör gränsen mellan arbetsgivarens ansvar och arbetstagarens arbetsförmåga (1).
+### 8.6.2. Svensk rättspraxis
 
-* **AD 2015 nr 65** En arbetssökande med ADHD nekades anställning och hävdade diskriminering. Domstolen prövade om arbetsgivaren hade gjort en objektiv bedömning av arbetsförmågan eller om beslutet byggde på fördomar. Fallet visar hur neuropsykiatriska diagnoser kan leda till indirekt diskriminering (2).
+#### AD 2017 nr 51  
+I detta mål prövade Arbetsdomstolen en situation där en arbetstagare med bipolär sjukdom ansåg sig diskriminerad eftersom arbetsgivaren inte vidtagit skäliga anpassningsåtgärder. Domstolen konstaterade att psykiska sjukdomar omfattas av diskrimineringslagens skydd, vilket innebär att arbetsgivare har en skyldighet att beakta dessa tillstånd vid bedömning av arbetsförmåga och arbetsmiljö [1]. Samtidigt betonade domstolen att arbetsgivaren inte är skyldig att acceptera alla former av anpassning, utan att det måste göras en avvägning mellan arbetsgivarens ansvar och arbetstagarens faktiska arbetsförmåga.  
 
-## 3. Europeisk praxis
+Fallet tydliggör den komplexa gränsdragningen mellan rätt till skäliga anpassningar och arbetsgivarens möjlighet att upprätthålla verksamhetens krav. Det visar att även om psykiska sjukdomar omfattas av diskrimineringsskyddet, kan det uppstå situationer där arbetsgivaren anses ha fullgjort sitt ansvar trots att arbetstagaren upplever sig missgynnad.  
 
-* **HK Danmark v. Dansk almennyttigt Boligselskab (C-335/11 och C-337/11, EU-domstolen)** EU-domstolen slog fast att begreppet funktionshinder omfattar även långvariga psykiska tillstånd. Domen är central för att förstå hur EU-rätten inkluderar dolda funktionshinder i diskrimineringsskyddet (3).
+---
 
-* **Z v. A Government Department (C-363/12, EU-domstolen)** Här prövades om infertilitet kunde betraktas som funktionshinder. Domstolen betonade att även tillstånd som inte är synliga kan omfattas av skyddet, vilket breddar förståelsen av funktionshinderbegreppet (4).
+#### AD 2015 nr 65  
+I detta fall nekades en arbetssökande med ADHD anställning och hävdade diskriminering. Arbetsdomstolen prövade om arbetsgivaren hade gjort en objektiv bedömning av arbetsförmågan eller om beslutet byggde på fördomar och stereotypa föreställningar [2]. Fallet visar tydligt hur neuropsykiatriska diagnoser kan leda till indirekt diskriminering, särskilt när arbetsgivare inte gör en individuell och saklig prövning av kandidatens faktiska kompetens.  
 
-## 4. Analys
+Domstolens prövning understryker vikten av att arbetsgivare måste kunna motivera sina beslut med hänvisning till arbetsuppgifternas krav och inte låta förutfattade meningar styra. Om en person med ADHD nekas anställning enbart på grund av diagnosen, utan att arbetsförmågan prövats i relation till arbetsuppgifterna, kan det utgöra ett brott mot diskrimineringslagen.  
 
-Dessa rättsfall visar att:
+---
 
-* Dolda funktionshinder erkänns som skyddade enligt diskrimineringslagstiftning.
+#### Sammanfattning  
+Dessa två rättsfall visar hur Arbetsdomstolen hanterar frågor om psykiska och neuropsykiatriska funktionshinder i arbetslivet. AD 2017 nr 51 tydliggör gränsen mellan arbetsgivarens ansvar för skäliga anpassningar och arbetstagarens arbetsförmåga, medan AD 2015 nr 65 belyser risken för indirekt diskriminering när arbetsgivare inte gör en objektiv bedömning av arbetssökandes kompetens. Tillsammans illustrerar fallen att diskrimineringslagens skydd omfattar även osynliga funktionshinder, men att dess genomslag beror på hur väl arbetsgivare förmår balansera verksamhetens krav med individens rätt till likabehandling [1,2].
 
-* Arbetsgivare och utbildningsinstitutioner har en skyldighet att vidta skäliga anpassningar.
+---
 
-* Gränsdragningen mellan rimliga anpassningar och oproportionerliga krav är central i rättspraxis.
+### 8.6.3. Europeisk praxis
 
-* EU-rätten har haft stor betydelse för att inkludera psykiska och neuropsykiatriska tillstånd i diskrimineringsskyddet.
+#### HK Danmark v. Dansk almennyttigt Boligselskab (C‑335/11 och C‑337/11)  
+I dessa mål prövade EU‑domstolen hur begreppet funktionshinder ska förstås inom EU‑rätten. Domstolen slog fast att även långvariga psykiska tillstånd omfattas av diskrimineringsskyddet [3]. Detta var ett avgörande steg i att bredda definitionen av funktionshinder, eftersom det tydliggjorde att skyddet inte enbart gäller synliga eller fysiska begränsningar.  
 
-## 5. Slutsats
+Domen är central för förståelsen av hur EU‑rätten inkluderar dolda funktionshinder i diskrimineringsskyddet. Den innebär att arbetsgivare och andra aktörer måste beakta att psykiska sjukdomar kan påverka individens möjlighet till full delaktighet i arbetslivet och samhällslivet. Därmed stärks också tolkningen av nationell lagstiftning, såsom Patientlagen och Diskrimineringslagen, i svensk kontext.  
 
-Rättspraxis visar att diskriminering av personer med dolda funktionshinder är en reell problematik. Samtidigt har domstolarna bidragit till att klargöra arbetsgivares och utbildningsinstitutioners ansvar. För att motverka diskriminering krävs både rättsliga och praktiska insatser, inklusive ökad medvetenhet om osynliga funktionshinder.
+---
 
-## Referenser (Vancouver-stil)
+#### Z v. A Government Department (C‑363/12)  
+I detta mål prövade EU‑domstolen om infertilitet kunde betraktas som ett funktionshinder. Domstolen betonade att även tillstånd som inte är synliga kan omfattas av diskrimineringsskyddet [4]. Genom detta avgörande breddades förståelsen av funktionshinderbegreppet ytterligare, eftersom det visade att funktionshinder inte behöver vara uppenbart för omgivningen för att omfattas av rättsligt skydd.  
+
+Fallet illustrerar att diskrimineringsskyddet är avsett att omfatta en mångfald av tillstånd – både fysiska, psykiska och medicinska – som kan begränsa en persons möjlighet att delta på lika villkor. Det innebär att arbetsgivare, utbildningsinstitutioner och vårdgivare måste ta hänsyn till även osynliga tillstånd när de utformar sina rutiner och beslut.  
+
+---
+
+#### Sammanfattning  
+Tillsammans visar dessa två avgöranden att EU‑domstolen konsekvent tolkar funktionshinderbegreppet brett och inkluderande. HK Danmark‑målen tydliggör att långvariga psykiska tillstånd omfattas av skyddet, medan Z‑målet visar att även medicinska tillstånd som infertilitet kan betraktas som funktionshinder. Sammantaget innebär detta att diskrimineringsskyddet inom EU inte begränsas till synliga funktionsnedsättningar, utan omfattar en bredare grupp av dolda funktionshinder. Detta stärker patienters och arbetstagares rättigheter och påverkar hur nationell lagstiftning, såsom Patientlagen och Diskrimineringslagen, ska tolkas och tillämpas [3,4].
+
+---
+
+### 8.6.4. Analys
+
+Rättsfallen visar att dolda funktionshinder – såsom psykiska sjukdomar och neuropsykiatriska diagnoser – erkänns som skyddade enligt diskrimineringslagstiftningen. Detta innebär att individer med sådana tillstånd har samma rätt till likabehandling som personer med synliga funktionshinder.
+
+Vidare framgår att arbetsgivare och utbildningsinstitutioner har en skyldighet att vidta skäliga anpassningar för att möjliggöra delaktighet och arbetsförmåga. Samtidigt är gränsdragningen mellan rimliga anpassningar och oproportionerliga krav central i rättspraxis, vilket innebär att domstolarna ofta får pröva var ansvaret för anpassning slutar.
+
+EU-rätten har haft stor betydelse för utvecklingen av skyddet, särskilt genom att inkludera psykiska och neuropsykiatriska tillstånd i funktionshinderbegreppet. Detta har bidragit till en bredare förståelse av diskrimineringsskyddet och en förstärkning av rättigheterna för personer med osynliga funktionshinder.
+
+---
+
+## 8.6.5. Slutsats
+
+Rättspraxis visar tydligt att diskriminering av personer med dolda funktionshinder är en reell och återkommande problematik. Även om lagstiftningen ger ett starkt skydd, uppstår utmaningar i den praktiska tillämpningen, där bristande förståelse för psykiska och neuropsykiatriska tillstånd kan leda till uteblivna anpassningar eller felaktiga beslut. Domstolarnas avgöranden har därför haft en viktig roll i att klargöra arbetsgivares och utbildningsinstitutioners ansvar, särskilt när det gäller gränsdragningen mellan skäliga anpassningar och oproportionerliga krav.
+
+För att motverka diskriminering krävs dock mer än rättsliga avgöranden. Det behövs en kombination av juridisk efterlevnad, organisatoriska rutiner och en ökad medvetenhet om osynliga funktionshinder i arbetslivet, utbildningen och vården. Arbetsgivare och institutioner måste utveckla en kultur där individanpassning ses som en självklar del av likabehandling, snarare än som ett undantag. Detta innebär att både ledning och personal behöver utbildning och stöd för att kunna identifiera behov som inte alltid är synliga, samt förmåga att omsätta lagens principer i praktiken.
+
+Slutsatsen blir att diskrimineringslagstiftningen och EU‑rättens breda syn på funktionshinder utgör en stark rättslig grund, men att dess verkliga betydelse avgörs av hur väl aktörer i samhället lyckas omsätta dessa principer i vardagen. Endast genom att kombinera rättslig reglering med praktiska insatser och ökad medvetenhet kan diskriminering mot personer med dolda funktionshinder motverkas och deras rätt till likabehandling säkerställas på ett meningsfullt sätt.
+
+---
+
+### Referenser
 
 1. Arbetsdomstolen. AD 2017 nr 51. Stockholm: Arbetsdomstolen; 2017.
 
@@ -120,3 +157,5 @@ Rättspraxis visar att diskriminering av personer med dolda funktionshinder är 
 3. EU-domstolen. HK Danmark v. Dansk almennyttigt Boligselskab (C-335/11 och C-337/11). Luxemburg: EU-domstolen; 2013.
 
 4. EU-domstolen. Z v. A Government Department (C-363/12). Luxemburg: EU-domstolen; 2014.
+
+\newpage
